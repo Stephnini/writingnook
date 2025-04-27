@@ -139,7 +139,7 @@ footer.show {
 
 /* Cursor Hover Changes */
 body:active {
-    cursor: url('click!.gif'), auto;
+    cursor: url('Click!.gif'), auto;
 }
 
 a:hover, button:hover {
